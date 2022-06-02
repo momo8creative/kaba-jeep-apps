@@ -1,0 +1,17 @@
+export const lightTheme = {
+  bg: "hsl(0deg 0% 95%)",
+  bgA: "hsl(0deg 0% 0% / 50%)",
+  bg1: "white",
+  bg2: "hsl(0deg 0% 90%)",
+  bg3: "hsl(0deg 0% 80%)",
+  bg4: "hsl(0deg 0% 70%)",
+  bg5: "hsl(216deg 5% 20%)",
+  text: "hsl(216deg 5% 5%)",
+  primary: "hsl(216deg 100% 50%)",
+  dangerBg: "hsl(0deg 100% 90%)",
+  danger: "red",
+  successBg: "hsl(125deg 100% 80%)",
+  success: "green",
+  warningBg: "hsl(55deg 100% 80%)",
+  warning: "hsl(55deg 88% 30%)",
+};
